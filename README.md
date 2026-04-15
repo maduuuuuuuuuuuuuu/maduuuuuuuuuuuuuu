@@ -1,15 +1,17 @@
 ### Olá! 👋 Eu sou Maria Eduarda Amaral
-Sou uma aspirante a desenvolvedor em busca de uma oportunidade de estágio para aplicar e aprimorar minhas habilidades. Atualmente, estou focado no aprendizado de Phyton e aprofundando meus conhecimentos em PHP.
+Sou uma aspirante a desenvolvedora em constante evolução, sempre em busca de aprender e aprimorar minhas habilidades na área de tecnologia. Atualmente, estou estagiando na Intelbras, atuando na equipe de Defense IA, com foco principal em atividades de QA (Quality Assurance).
 
+Tenho direcionado meus estudos para programação, com interesse em linguagens como Python e Java, e atualmente estou aprofundando meus conhecimentos em Golang e JavaScript. Meu objetivo é evoluir tanto no desenvolvimento quanto na área de qualidade de software, buscando escrever códigos mais eficientes e contribuir para a entrega de soluções mais robustas e confiáveis.
 ---
 
 ### 🛠️ Tecnologias e Habilidades
 
 Tenho experiência com:
 
--   **Linguagens:** C#, JavaScript, HTML, CSS, PHP, C++
+-   **Linguagens:** C#, JavaScript, HTML, CSS, PHP, C++, Python
+-   **Frameworks:** Locust, Pytest, Playwright 
 -   **Banco de Dados:** MySQL
--   **Em aprendizado:** UI/UX, Phyton
+-   **Em aprendizado:** UI/UX, Java, Golang
 
 ---
 
