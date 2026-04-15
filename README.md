@@ -1,7 +1,8 @@
 ### Olá! 👋 Eu sou Maria Eduarda Amaral
 Sou uma aspirante a desenvolvedora em constante evolução, sempre em busca de aprender e aprimorar minhas habilidades na área de tecnologia. Atualmente, estou estagiando na Intelbras, atuando na equipe de Defense IA, com foco principal em atividades de QA (Quality Assurance).
 
-Tenho direcionado meus estudos para programação, com interesse em linguagens como Python e PHP, e atualmente estou aprofundando meus conhecimentos em Golang e JavaScript. Meu objetivo é evoluir tanto no desenvolvimento quanto na área de qualidade de software, buscando escrever códigos mais eficientes e contribuir para a entrega de soluções mais robustas e confiáveis.
+Tenho direcionado meus estudos para programação, com interesse em linguagens como Python, e atualmente estou aprofundando meus conhecimentos em Golang e JavaScript. Meu objetivo é evoluir tanto no desenvolvimento quanto na área de qualidade de software, buscando escrever códigos mais eficientes e contribuir para a entrega de soluções mais robustas e confiáveis.
+
 ---
 
 ### 🛠️ Tecnologias e Habilidades
